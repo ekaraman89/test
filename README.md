@@ -120,6 +120,6 @@ katman mimarisi ile tamamen OOP(Nesne Yönelimli Programlama) olarak geliştiril
 Server seçilmiştir. ( Proje masaüstü uygulaması, web uygulaması, web ve Windows servis olarak tasarlanmıştır.)
 
 * Yazilimsirlari.com
- >Tasarım hariç, site kodlaması tamamıyla bana aittir. Sitede yazarlar tarafından eklenen makaleler, ilgili
+	>Tasarım hariç, site kodlaması tamamıyla bana aittir. Sitede yazarlar tarafından eklenen makaleler, ilgili
 başlıklardan okunabilir. C# Programlama dili ile Ado.Net ve Katman mimarisi ile tamamen OOP(Nesne Yönelimli
 Programlama) olarak geliştirilmiştir.
