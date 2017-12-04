@@ -96,7 +96,7 @@ yapabilirim.
 	- Yazılım ile ilgili bütün sorunlarda destek verebilirim.
 	- Yeni teknolojiler alanlarında da gelişime açığım.
 
-#Projeler:
+# Projeler:
 * IYS – Mali Müşavir CRM ve Yönetim Sistemi
 	>Mali müşavirin işlerini kolaylaştırması ve mükellef yönetimi için ASP.NET teknolojisi ile geliştirilmiş web
 projesi.<
