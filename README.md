@@ -71,11 +71,11 @@ Yabancı Dil  | İngilizce ( Orta Seviye )
 
 		
 # Bilgisayar Bilgisi:
-Kullandığı Programlar ve Programlama Dilleri
-- C# ( İyi Derecede )
-- Entity Framework ( İyi Derecede )
-:  Asp.Net ( İyi Derecede )
-:  Asp.Net MVC ( İyi Derecede )
+-Kullandığı Programlar ve Programlama Dilleri
+	- C# ( İyi Derecede )
+	- Entity Framework ( İyi Derecede )
+	:  Asp.Net ( İyi Derecede )
+	:  Asp.Net MVC ( İyi Derecede )
 :  HTML ( İyi Derecede )
 :  Ajax ( İyi Derece )
 :  Javascript (İyi Derecede )
