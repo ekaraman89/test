@@ -7,7 +7,7 @@
 | **E-Mail**       |ekaraman89@hotmail.com|
 
 
-#Kişisel Bilgiler:
+# Kişisel Bilgiler:
 
 Bilgiler     | Değerler
 -------------| ------------------
@@ -70,8 +70,7 @@ Yabancı Dil  | İngilizce ( Orta Seviye )
 		* OEM ve sarf malzeme satışı
 
 		
-#Bilgisayar Bilgisi:
-
+# Bilgisayar Bilgisi:
 Kullandığı Programlar ve Programlama Dilleri
 :  C# ( İyi Derecede )
 :  Entity Framework ( İyi Derecede )
