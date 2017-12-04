@@ -19,23 +19,23 @@ Yabancı Dil  | İngilizce ( Orta Seviye )
 
 
 #Eğitim Bilgileri:
-|              |                         | 
- ------------- | ---------------------------- | 
-|2016 – Devam |**Trakya Üniversitesi / Edirne** 
-|			  |*Mühendislik Fakültesi - Bilgisayar Mühendisliği*|
-|2008 – 2010  |**Dokuz Eylül Üniversitesi / İzmir**|
-|             | *İzmir M.Y.O - Bilgisayar Programcılığı*|
-|2004 – 2007  |**Aliağa Lisesi / İzmir**|
-|             | *Sayısal*|
+|              |                                                 | 
+| -------------| ----------------------------------------------- | 
+|2016 – Devam |**Trakya Üniversitesi / Edirne**                  | 
+|             |*Mühendislik Fakültesi - Bilgisayar Mühendisliği* |
+|2008 – 2010  |**Dokuz Eylül Üniversitesi / İzmir**              |
+|             | *İzmir M.Y.O - Bilgisayar Programcılığı*         |
+|2004 – 2007  |**Aliağa Lisesi / İzmir**                         |
+|             | *Sayısal*                                        |
 
  
 #Sertifikalar:
-|              |                         | 
- ------------- | ---------------------------- | 
-|05.2011 –12.2011  |**Bilge Adam Bilgi Teknolojileri Akademisi / İzmir** 
-|			  |*Yazılım ve Veritabanı Uzmanlığı*|
-|06.2006 – 09.2006  |**Tüpraş Halk Eğitim Merkezi / Aliağa**|
-|             | *Bilgisayar Ofis Programları*|
+|                  |                                             | 
+| -------------    | --------------------------------------------| 
+|05.2011 –12.2011  |**Bilge Adam Bilgi Teknolojileri Akademisi / İzmir** |
+|	           |*Yazılım ve Veritabanı Uzmanlığı*|
+|06.2006 – 09.2006 |**Tüpraş Halk Eğitim Merkezi / Aliağa**|
+|                  | *Bilgisayar Ofis Programları*|
 
 #İş Deneyimleri:
 
