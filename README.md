@@ -76,26 +76,25 @@ Yabancı Dil  | İngilizce ( Orta Seviye )
 	- Entity Framework ( İyi Derecede )
 	:  Asp.Net ( İyi Derecede )
 	:  Asp.Net MVC ( İyi Derecede )
-:  HTML ( İyi Derecede )
-:  Ajax ( İyi Derece )
-:  Javascript (İyi Derecede )
-:  Jquery (İyi Derecede )
-:  Json (İyi Derecede )
-:  Ado.Net ( İyi Derecede )
-:  DAL ( İyi Derecede )
-:  Team Foundation Server ( İyi Derecede )
-:  T-SQL PL/SQL ( İyi Derecede )
-:  LINQ to SQL ( Orta Derecede )
-:  MSSQL ( İyi Derecede )
-:  MYSQL ( İyi Derecede )
-:  Oracle ( Orta Derecede )
-:  MS Office ( İyi Derecede )
-
-Diğer
-:  Bilgisayarda sorun bulma, çözüm üretme, bakım yapma, yazılımını güncelleme gibi işleri rahatlıkla
+	:  HTML ( İyi Derecede )
+	:  Ajax ( İyi Derece )
+	:  Javascript (İyi Derecede )
+	:  Jquery (İyi Derecede )
+	:  Json (İyi Derecede )
+	:  Ado.Net ( İyi Derecede )
+	:  DAL ( İyi Derecede )
+	:  Team Foundation Server ( İyi Derecede )
+	:  T-SQL PL/SQL ( İyi Derecede )
+	:  LINQ to SQL ( Orta Derecede )
+	:  MSSQL ( İyi Derecede )
+	:  MYSQL ( İyi Derecede )
+	:  Oracle ( Orta Derecede )
+	:  MS Office ( İyi Derecede )
+- Diğer
+	:  Bilgisayarda sorun bulma, çözüm üretme, bakım yapma, yazılımını güncelleme gibi işleri rahatlıkla
 yapabilirim.
-:  Yazılım ile ilgili bütün sorunlarda destek verebilirim.
-:  Yeni teknolojiler alanlarında da gelişime açığım.
+	:  Yazılım ile ilgili bütün sorunlarda destek verebilirim.
+	:  Yeni teknolojiler alanlarında da gelişime açığım.
 
 #Projeler:
 * IYS – Mali Müşavir CRM ve Yönetim Sistemi
