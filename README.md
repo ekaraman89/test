@@ -1,4 +1,4 @@
-# #**Emrah Karaman**
+# **Emrah Karaman**
 |              |                         |
  ------------- | ---------------------------- |
 | **Adres**        |İstiklâl Cad. No:80/14 Aliağa/İzmir|
@@ -19,7 +19,7 @@ Ehliyet      | A2 ve B
 Yabancı Dil  | İngilizce ( Orta Seviye )
 
 
-#Eğitim Bilgileri:
+# Eğitim Bilgileri:
 
 |              |                                                 | 
 | -------------| ----------------------------------------------- | 
@@ -31,7 +31,7 @@ Yabancı Dil  | İngilizce ( Orta Seviye )
 |             | *Sayısal*                                        |
 
  
-#Sertifikalar:
+# Sertifikalar:
 
 |                  |                                             | 
 | -------------    | --------------------------------------------| 
@@ -40,7 +40,7 @@ Yabancı Dil  | İngilizce ( Orta Seviye )
 |06.2006 – 09.2006 |**Tüpraş Halk Eğitim Merkezi / Aliağa**|
 |                  | *Bilgisayar Ofis Programları*|
 
-#İş Deneyimleri:
+# İş Deneyimleri:
 
 1. **01.2015 - 10.2016 KüreselNet / İzmir**
 	http://kureselnet.com/
