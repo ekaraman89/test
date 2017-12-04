@@ -8,6 +8,7 @@
 
 
 #Kişisel Bilgiler:
+
 Bilgiler     | Değerler
 -------------| ------------------
 Doğum Yeri   |Bergama / İzmir
