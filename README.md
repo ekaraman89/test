@@ -20,6 +20,7 @@ Yabancı Dil  | İngilizce ( Orta Seviye )
 
 
 #Eğitim Bilgileri:
+
 |              |                                                 | 
 | -------------| ----------------------------------------------- | 
 |2016 – Devam |**Trakya Üniversitesi / Edirne**                  | 
@@ -31,6 +32,7 @@ Yabancı Dil  | İngilizce ( Orta Seviye )
 
  
 #Sertifikalar:
+
 |                  |                                             | 
 | -------------    | --------------------------------------------| 
 |05.2011 –12.2011  |**Bilge Adam Bilgi Teknolojileri Akademisi / İzmir** |
