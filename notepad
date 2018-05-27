@@ -1,0 +1,1 @@
+$ docker run -e MYSQL_ROOT_PASSWORD=123123 -e MYSQL_ROOT_HOST=%  -p 3306:3306 -d mysql/mysql-server --default-authentication-plugin=mysql_native_password
